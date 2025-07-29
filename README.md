@@ -50,7 +50,7 @@ MultiTalk is designed for a variety of users:
 ## 👥 Contributors
 
 - D.Sai Snehitha 
-- G.Pranv
-- J.Jayansh adithya
+- G.Pranav Reddy
+- J.Jayansh Adithya
 - L.Shivani
 - S.Srija
